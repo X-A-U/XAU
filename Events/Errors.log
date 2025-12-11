@@ -1,0 +1,4 @@
+Game: 896928775, Achievement:31, Error: 'Newtonsoft.Json.Linq.JValue' does not contain a definition for 'ReplacementType'
+Game: 1289871275, Achievement:398, Error: Cannot perform runtime binding on a null reference
+Game: 1289871275, Achievement:399, Error: 'Newtonsoft.Json.Linq.JValue' does not contain a definition for 'ReplacementType'
+Game: 1289871275, Achievement:794, Error: 'Newtonsoft.Json.Linq.JValue' does not contain a definition for 'ReplacementType'
